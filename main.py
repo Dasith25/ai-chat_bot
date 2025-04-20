@@ -1,7 +1,9 @@
-# for run the program
+# for r the program
 # After setup location, type these on terminal
 # Step 01: .\chatbotenv\Scripts\activate
-# Step 02: python main.py
+# Step 02: python 
+#first commit 
+
 
 
 from openai import OpenAI
